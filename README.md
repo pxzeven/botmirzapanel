@@ -8,14 +8,14 @@ A Powerful Bot for Selling VPN Services with Auto Configuration Build.
     <a href="https://t.me/mirzapanel" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-Group-blue?style=flat-square&logo=telegram" alt="Telegram Group"/>
     </a>
-    <a href="https://github.com/mahdiMGF2/botmirzapanel" target="_blank">
-        <img src="https://img.shields.io/github/stars/mahdiMGF2/botmirzapanel?style=social" alt="GitHub Stars"/>
+    <a href="https://github.com/pxzeven/botmirzapanel" target="_blank">
+        <img src="https://img.shields.io/github/stars/pxzeven/botmirzapanel?style=social" alt="GitHub Stars"/>
     </a>
-    <a href="https://img.shields.io/github/forks/mahdiMGF2/botmirzapanel?style=flat-square" target="_blank">
-        <img src="https://img.shields.io/github/forks/mahdiMGF2/botmirzapanel?style=flat-square" alt="GitHub Forks"/>
+    <a href="https://img.shields.io/github/forks/pxzeven/botmirzapanel?style=flat-square" target="_blank">
+        <img src="https://img.shields.io/github/forks/pxzeven/botmirzapanel?style=flat-square" alt="GitHub Forks"/>
     </a>
-    <a href="https://github.com/mahdiMGF2/botmirzapanel/issues" target="_blank">
-        <img src="https://img.shields.io/github/issues/mahdiMGF2/botmirzapanel?style=flat-square" alt="GitHub Issues"/>
+    <a href="https://github.com/pxzeven/botmirzapanel/issues" target="_blank">
+        <img src="https://img.shields.io/github/issues/pxzeven/botmirzapanel?style=flat-square" alt="GitHub Issues"/>
     </a>
 </p>
 
@@ -127,7 +127,7 @@ Ensure you have the following before installation:
 Run the following command in your server terminal:
 
 ```bash
-curl -o install.sh -L https://raw.githubusercontent.com/mahdiMGF2/botmirzapanel/main/install.sh && bash install.sh
+curl -o install.sh -L https://raw.githubusercontent.com/pxzeven/botmirzapanel/main/install.sh && bash install.sh
 ```
 
 When prompted, **select option 1** to complete the installation.
@@ -141,7 +141,7 @@ When prompted, **select option 1** to complete the installation.
 To install the beta version, run:
 
 ```bash
-curl -o install.sh -L https://raw.githubusercontent.com/mahdiMGF2/botmirzapanel/main/install.sh && bash install.sh -beta
+curl -o install.sh -L https://raw.githubusercontent.com/pxzeven/botmirzapanel/main/install.sh && bash install.sh -beta
 ```
 
 ---
@@ -151,7 +151,7 @@ curl -o install.sh -L https://raw.githubusercontent.com/mahdiMGF2/botmirzapanel/
 To update your bot to the latest version, use the following command:
 
 ```bash
-curl -o install.sh -L https://raw.githubusercontent.com/mahdiMGF2/botmirzapanel/main/install.sh && bash install.sh -update
+curl -o install.sh -L https://raw.githubusercontent.com/pxzeven/botmirzapanel/main/install.sh && bash install.sh -update
 ```
 
 ---
@@ -161,7 +161,7 @@ curl -o install.sh -L https://raw.githubusercontent.com/mahdiMGF2/botmirzapanel/
 If you want to completely remove the bot from your server, run the following command:
 
 ```bash
-curl -o install.sh -L https://raw.githubusercontent.com/mahdiMGF2/botmirzapanel/main/install.sh && bash install.sh
+curl -o install.sh -L https://raw.githubusercontent.com/pxzeven/botmirzapanel/main/install.sh && bash install.sh
 ```
 
 When prompted, **select option 3** to remove the bot.
@@ -180,10 +180,10 @@ Want to see Mirza Panel in action? Try the demo bot here:
 If you find **Mirza Panel** helpful and would like to support its development, you can make a financial contribution via cryptocurrency.
 
 - **TRX Network (TRC20)**:  
-  `TNvwhpNtXxKMFFeVzGR8GNZ6gL4aECituU`
+  `TNvwhpHsXxKMFFeVzGw4Gs6gL4aIpW0tu`
 
 Your support ensures continued updates and improvements for this project. Thank you! 🙌
 
 ### Contributors
 
-![Contributors](https://contrib.rocks/image?repo=mahdiMGF2/botmirzapanel)
+![Contributors](https://contrib.rocks/image?repo=pxzeven/botmirzapanel)
