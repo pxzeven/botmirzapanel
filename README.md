@@ -168,12 +168,6 @@ When prompted, **select option 3** to remove the bot.
 
 ---
 
-## 📱 Demo Bot
-
-Want to see Mirza Panel in action? Try the demo bot here:  
-👉 [Demo Bot](https://t.me/___)
-
----
 
 
 ![Contributors](https://contrib.rocks/image?repo=pxzeven/botmirzapanel)
