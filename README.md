@@ -1,4 +1,4 @@
-# 🤖 Bot Mirza Panel
+# 🤖 Bot Mirza Panel (English Version)
 
 
 
