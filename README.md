@@ -4,18 +4,19 @@
 
 A Powerful Bot for Selling VPN Services with Auto Configuration Build.
 
+
 <p align="center">
     <a href="https://t.me/mirzapanel" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-Group-blue?style=flat-square&logo=telegram" alt="Telegram Group"/>
     </a>
-    <a href="https://github.com/pxzeven/botmirzapanel" target="_blank">
-        <img src="https://img.shields.io/github/stars/pxzeven/botmirzapanel?style=social" alt="GitHub Stars"/>
+    <a href="https://github.com/mahdiMGF2/botmirzapanel" target="_blank">
+        <img src="https://img.shields.io/github/stars/mahdiMGF2/botmirzapanel?style=social" alt="GitHub Stars"/>
     </a>
-    <a href="https://img.shields.io/github/forks/pxzeven/botmirzapanel?style=flat-square" target="_blank">
-        <img src="https://img.shields.io/github/forks/pxzeven/botmirzapanel?style=flat-square" alt="GitHub Forks"/>
+    <a href="https://img.shields.io/github/forks/mahdiMGF2/botmirzapanel?style=flat-square" target="_blank">
+        <img src="https://img.shields.io/github/forks/mahdiMGF2/botmirzapanel?style=flat-square" alt="GitHub Forks"/>
     </a>
-    <a href="https://github.com/pxzeven/botmirzapanel/issues" target="_blank">
-        <img src="https://img.shields.io/github/issues/pxzeven/botmirzapanel?style=flat-square" alt="GitHub Issues"/>
+    <a href="https://github.com/mahdiMGF2/botmirzapanel/issues" target="_blank">
+        <img src="https://img.shields.io/github/issues/mahdiMGF2/botmirzapanel?style=flat-square" alt="GitHub Issues"/>
     </a>
 </p>
 
