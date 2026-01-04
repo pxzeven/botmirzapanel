@@ -171,19 +171,9 @@ When prompted, **select option 3** to remove the bot.
 ## 📱 Demo Bot
 
 Want to see Mirza Panel in action? Try the demo bot here:  
-👉 [Demo Bot](https://t.me/marzbaninfobot)
+👉 [Demo Bot](https://t.me/___)
 
 ---
 
-## 💵 Financial Support
-
-If you find **Mirza Panel** helpful and would like to support its development, you can make a financial contribution via cryptocurrency.
-
-- **TRX Network (TRC20)**:  
-  `TNvwhpHsXxKMFFeVzGw4Gs6gL4aIpW0tu`
-
-Your support ensures continued updates and improvements for this project. Thank you! 🙌
-
-### Contributors
 
 ![Contributors](https://contrib.rocks/image?repo=pxzeven/botmirzapanel)
